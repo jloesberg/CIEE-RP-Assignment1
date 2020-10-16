@@ -1,0 +1,6 @@
+---
+title: "Assignment 1"
+author: "Jenna Loesberg"
+date: "10/16/2020"
+output: html_document
+---
