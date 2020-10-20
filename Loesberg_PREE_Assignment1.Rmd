@@ -8,6 +8,7 @@ output:
 bibliography: reed2020.bib
 ---
 
+The github repository for the assignment can be found [here](https://github.com/jloesberg/CIEE-RP-Assignment1).
 
 ![](title.png)
 
