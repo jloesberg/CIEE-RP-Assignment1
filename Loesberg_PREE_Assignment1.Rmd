@@ -1,12 +1,22 @@
 ---
 title: "Assignment 1"
 author: "Jenna Loesberg"
-date: "10/16/2020"
+date: "10/20/2020"
 output: html_document
+bibliography: reed2020.bib
 ---
 
-Reed et al. (2020) examined the demographic consequences of warming and precipitation change on perennial forb species in the Pacific Northwest. Changes in temperature decreased population growth rates of multiple species within current ranges, but not beyond current ranges, suggesting range movement is necessary for population persistance considering climate change in the PNW.
 
+![](C:/Users/Jenna/Dropbox/Jenna/CIEE/CIEE-RP-Assignment1/title.png)
+
+### Paper Summary
+@Reed2020 examined the demographic consequences of warming and precipitation change on perennial forb species in the Pacific Northwest. Changes in temperature decreased population growth rates of multiple species within current ranges, but not beyond current ranges, suggesting range movement is necessary for population persistance with climate change in the PNW.
+
+
+### Journal Requirements
+The Journal of Ecology does not have any specific requirements for open science besides [requiring data archiving](https://besjournals.onlinelibrary.wiley.com/hub/editorial-policies), but does not require code archiving. This journal is also piloting a [Transparent Peer Review](https://jecologyblog.com/2019/11/05/transparent-peer-review/) process.
+
+### Checklist:
 
 #### Questions to promote transparent reporting of methods and results:
 
@@ -82,3 +92,4 @@ had a lower prior probability of being correct.
 
 I don't think the results are unexpected. We know that species ranges will have to shift with novel environmental conditions, but we don't really understand the mechanisms behind it. Plants planted outside of their current range did better than in their current range isn't unexpected, and neither are the results that temperature/watering treatments only affected plants within their current ranges but not in novel ranges. 
 
+### Bibliography
